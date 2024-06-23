@@ -448,6 +448,8 @@ please preview your site before committing, and make sure to run
   Data Carpentry
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
+  {% elsif sit.carpentry == "cp" %}
+  UC Carpentries 
   {% endif %}
   workshop,
   you will need access to software as described below.
@@ -478,7 +480,7 @@ These are the installation instructions for the tools used
 during the workshop.
 {% endcomment %}
 
-{% if site.carpentry == "swc" %}
+{% if site.carpentry == "cp" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
 {% include dc/setup.html %}
