@@ -448,7 +448,7 @@ please preview your site before committing, and make sure to run
   Data Carpentry
   {% elsif site.carpentry == "lc" %}
   Library Carpentry
-  {% elsif sit.carpentry == "cp" %}
+  {% elsif site.carpentry == "cp" %}
   UC Carpentries 
   {% endif %}
   workshop,
