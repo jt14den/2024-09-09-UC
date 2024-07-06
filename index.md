@@ -78,7 +78,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 <tito-widget
-      event="ucsd-carpentries/uc-carpentries-fall-workshop-2024"
+      event="uc-carpentries/uc-carpentries-fall-workshop-2024"
     ></tito-widget>
 
 <h2 id="general">General Information</h2>
