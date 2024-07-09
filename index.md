@@ -76,7 +76,7 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-<h2 id="registration">Register (Currently Test Only)</h2>
+<h2 id="registration">Register</h2>
 <p>The registration below is currently in test mode. Check back later in July.</p>
 
  <tito-widget
