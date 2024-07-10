@@ -77,7 +77,6 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 <h2 id="registration">Register</h2>
-<p>The registration below is currently in test mode. Check back later in July.</p>
 
  <tito-widget
       event="uc-carpentries/uc-carpentries-fall-workshop-2024"></tito-widget>
